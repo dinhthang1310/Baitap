@@ -1,0 +1,33 @@
+div {
+    background-color: rgb(255, 196, 0);
+    width: 400px;
+    height: 400px;
+}
+a { color:white;
+    background-color:red;
+
+}   
+h2 {
+    color: blue;
+    background-color: aqua;
+}
+
+th {
+    color: darkblue;
+
+}
+
+#wrapper {
+    width: 500px;
+    height: 200px;
+    background: #141414;
+    margin: 50px auto;
+    display: flex;
+}
+ 
+.center {
+    width: 50%;
+    height: 50%;
+    background: #00b3b3;
+    margin: auto;
+}
